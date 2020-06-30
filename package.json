@@ -20,7 +20,7 @@
     "react": "16.8.6",
     "react-awesome-styled-grid": "2.2.3",
     "react-dom": "16.8.6",
-    "react-helmet": "5.2.1",
+    "react-helmet": "6.1.0",
     "react-icons": "3.6.1",
     "simple-json-fetch": "1.0.1",
     "styled-components": "4.2.0"
